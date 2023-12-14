@@ -1,0 +1,79 @@
+		<!-- lombok -->
+		<dependency>
+    		<groupId>org.projectlombok</groupId>
+    		<artifactId>lombok</artifactId>
+    		<version>1.18.30</version>
+    		<scope>provided</scope>
+		</dependency>
+		<!-- DB -->
+		<!-- mysql connector -->
+		<dependency>
+    		<groupId>mysql</groupId>
+    		<artifactId>mysql-connector-java</artifactId>
+    		<version>8.0.28</version>
+		</dependency>
+
+		<!-- mybatis -->
+    		<groupId>org.mybatis</groupId>
+    		<artifactId>mybatis</artifactId>
+    		<version>3.5.6</version>
+		
+		<!-- mybatis Spring -->
+    		<groupId>org.mybatis</groupId>
+    		<artifactId>mybatis-spring</artifactId>
+    		<version>2.0.6</version>
+
+spring-security-core 5.5.3
+spring-security-config 5.5.3
+spring-security-web 5.5.3
+
+db설정
+db 명 : springtest
+user : springUser
+password : mysql
+
+user 생성 구문
+
+계정은 root / ezen
+--database 생성
+create database springtest;
+
+--user 생성
+create user 'springUser'@'localhost' identified by 'mysql';
+
+--권한 생성
+grant all privileges on springtest.* to 'springUser'@'localhost';
+
+--권한 설정 내용 메모리에 반영
+flush privileges;
+
+
+create table board(
+bno int auto_increment, 
+title varchar(200), 
+writer varchar(200).
+content text.
+isDel varchar(10) default 'N', 
+reg_date datetime default now(),
+read_count int,
+primary key(bno));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
