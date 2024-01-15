@@ -1,0 +1,14 @@
+package com.myweb.www.handler;
+
+import com.myweb.www.domain.PagingVO;
+
+public class PagingHandler {
+	
+	private int startPage; //하단 페이지네이션의 시작 번호 1,11,21...
+	private int endPage; //하단 페이지네이션의 끝 번호 10,20,30...
+	private boolean prev, next;
+	
+	private int totalCount; //총 게시글 수 (매개변수로 전달)
+	private PagingVO pgvo; //매개변수로 전달
+	
+}

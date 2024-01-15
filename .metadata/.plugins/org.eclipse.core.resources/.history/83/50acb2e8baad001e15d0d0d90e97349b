@@ -1,0 +1,19 @@
+package com.myweb.www;
+
+import javax.inject.Inject;
+
+import org.junit.Test;
+
+import com.myweb.www.repository.BoardDAO;
+
+public class BoardTest {
+	
+	@Inject
+	private BoardDAO bdao;
+	
+	@Test
+	public void insertBoard() {
+		
+	}
+	
+}

@@ -1,0 +1,27 @@
+
+1월 04, 2024 08:47:04.283 NEW SESSION
+1월 04, 2024 08:47:04.283 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 04, 2024 08:49:47.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 04, 2024 08:55:19.927 [4868:10452:0104/085519.927:ERROR:device_event_log_impl.cc(192)] [08:55:19.927] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+
+1월 09, 2024 08:55:31.199 NEW SESSION
+1월 09, 2024 08:55:31.200 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 08:55:47.678 [10148:8168:0109/085547.678:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 08:57:19.370 [10148:8168:0109/085719.370:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 08:57:24.299 [10148:8168:0109/085724.299:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 08:57:51.862 [10148:8168:0109/085751.862:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 09:34:29.373 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 09:38:00.154 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1월 09, 2024 09:42:48.69 [9828:13412:0109/094248.069:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 09:48:49.200 [9828:13412:0109/094849.200:ERROR:device_event_log_impl.cc(192)] [09:48:49.200] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+1월 09, 2024 13:09:15.609 [9828:13412:0109/130915.609:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+1월 09, 2024 13:25:38.115 [9828:13412:0109/132538.115:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+1월 09, 2024 13:38:35.403 [9828:13412:0109/133835.402:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 13:39:01.147 [9828:13412:0109/133901.147:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 13:39:07.939 [9828:13412:0109/133907.939:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 13:39:51.659 [9828:13412:0109/133951.659:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 13:40:53.812 [9828:13412:0109/134053.812:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 13:41:00.55 [9828:13412:0109/134100.055:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 13:41:51.526 [9828:13412:0109/134151.526:ERROR:device_event_log_impl.cc(192)] [13:41:51.527] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+1월 09, 2024 13:52:54.344 [9828:13412:0109/135254.344:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 09, 2024 13:54:09.109 [9828:13412:0109/135409.109:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
