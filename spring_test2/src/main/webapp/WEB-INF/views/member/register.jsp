@@ -19,7 +19,7 @@
 				name="pwd" class="form-control" id="pwd" placeholder="password">
 		</div>
 		<div class="mb-3">
-			<label for="nickName" class="form-label">nick_name</label> <input type="text"
+			<label for="nickName" class="form-label">Nick_name</label> <input type="text"
 				name="nickName" class="form-control" id="nickName" placeholder="nickName">
 		</div>
 		<button type="submit" class="btn btn-primary">Sign UP</button>
